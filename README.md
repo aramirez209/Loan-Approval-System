@@ -8,7 +8,7 @@ Usage:
 2.	install required dependencies 
 pip install -r requirements.txt
 3.	Run the Python system
-Python main.py
+
 
 Contributing: Analya Ramirez and Mary Vuong https://github.com/vuongmd
 
